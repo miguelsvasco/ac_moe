@@ -1,0 +1,3 @@
+[submodule "d3rlpy"]
+	path = d3rlpy
+	url = https://github.com/miguelsvasco/d3rlpy.git
